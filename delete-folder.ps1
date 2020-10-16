@@ -1,4 +1,4 @@
-function deelte-folder {
+function delte-folder {
     param(
         [String] $Path
     )
